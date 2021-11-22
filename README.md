@@ -1,0 +1,2 @@
+# SOCET-MCA-DBMS
+SOCET - MCA SQL Practical 
